@@ -2,10 +2,10 @@
   <h1>Hi there, I'm Sohan Phadikar! 👋</h1>
   <h3>Data Analyst | Python & SQL Expert | Statistical Modeling</h3>
   
-  <a href="https://www.linkedin.com/in/sohan-phadikar">
+  <a href="https://www.linkedin.com/in/sohan-phadikar-199a19191/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sohanphadikar10@gmail.com">
+  <a href="mailto:sohanphadikar19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
@@ -17,7 +17,7 @@
 I am a results-oriented **Data Analyst** with **2+ years of experience** in delivering advanced analytics solutions and business value. I specialize in building end-to-end analytics workflows, KPI dashboards, and performance-optimized data pipelines.
 
 - 🔭 **I’m currently working on:** Advanced predictive modeling and end-to-end data engineering projects.
-- 💼 **Experience:** Operational Analyst at **Samatrix.io** (Jun 2023 – Present).
+- 💼 **Experience:** Operational Analyst at **Samatrix.io** (Jun 2023 – Jan 2026).
 - 📈 **Key Achievement:** Analyzed customer journey data to identify drop-offs, improving conversion rates by **12%**.
 - 🎓 **Education:** Master of Computer Applications (MCA) from JECRC University (2023).
 
