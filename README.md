@@ -42,8 +42,7 @@ I am a results-oriented **Data Analyst** with **2+ years of experience** in deli
 | **[Global Development Trends](https://github.com/sohan-bot/global-development-analysis)** | Analyzed global trends using GNP, population density, and development tiers. Designed scalable aggregation using MySQL CTEs & Window Functions. | `SQL` `Pandas` `Seaborn` |
 | **[End-to-End Analytics Workflow](https://github.com/sohan-bot/End-to-End-Data-Analysis-Project)** | Architected a scalable loading process using SQLAlchemy to migrate processed datasets into a centralized MySQL database. | `Python` `SQLAlchemy` `ETL` |
 | **Weather Forecasting (ARIMA)** | Performed time-series forecasting and seasonal trend analysis to predict weather parameters using statistical modeling. | `ARIMA` `Time-Series` `Python` |
-| **Spam Classification** | Developed an NLP-based spam detection model using TF-IDF features and supervised machine-learning algorithms. | `NLP` `TF-IDF` `ML` |
-
+| **[From Spark to Inferno: COVID-19 Analysis](https://github.com/sohan-bot/covid19-data-chronicle)** | Traced the pandemic from initial sparks to global hotspots. Uncovered regional disparities and survival trends using time-series analysis. | `Pandas` `PySpark` `Seaborn` |
 ---
 
 ### 📊 GitHub Stats
